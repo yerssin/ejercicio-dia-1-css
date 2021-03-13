@@ -1,0 +1,28 @@
+/** Insert your code here **/
+body {
+	color: blue;
+}
+
+body ul li {
+	color: red;
+}
+.resaltado {
+	background-color: green;
+}
+tr:nth-child(2n + 1) {
+	background-color: yellow;
+}
+
+/*********** READ ONLY BLOCK ******
+You CAN NOT UPDATE anything from here on,
+only add lines of code on top of this lines
+**/
+
+body {
+	color: blue;
+}
+
+ul li,
+ol li {
+	color: green;
+}

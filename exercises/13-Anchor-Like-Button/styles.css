@@ -1,0 +1,11 @@
+.orange-btn {
+	padding: 10px;
+	border-radius: 4px;
+	background-color: orange;
+	text-decoration: none;
+	color: white;
+}
+
+.orange-btn:hover {
+	color: tomato;
+}
